@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases"><img src="https://img.shields.io/github/v/release/<your-username>/WinSmoother?style=flat-square&color=55d68b" alt="Latest release"></a>
+  <a href="../../releases"><img src="https://img.shields.io/github/v/release/angeryangle98-lgtm/WinSmoother?style=flat-square&color=55d68b" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-5aa9ff?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/python-3.9%2B-a982ff?style=flat-square" alt="Python 3.9+">
   <a href="LICENSE.txt"><img src="https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square" alt="MIT License"></a>
@@ -109,7 +109,7 @@ Microsoft Store apps are removed with `Remove-AppxPackage`.
 Requires Windows 10/11 and Python 3.9+ (python.org installer, includes tkinter). No extra packages are needed to run it.
 
 ```
-git clone https://github.com/<your-username>/WinSmoother.git
+git clone https://github.com/angeryangle98-lgtm/WinSmoother.git
 cd WinSmoother
 py main.py
 ```
