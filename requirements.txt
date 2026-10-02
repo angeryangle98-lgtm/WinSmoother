@@ -1,0 +1,2 @@
+# Runtime uses the Python standard library only (tkinter is included with python.org installers).
+# Build requires PyInstaller (installed automatically by build.bat).
